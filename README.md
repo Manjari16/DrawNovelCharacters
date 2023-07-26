@@ -8,8 +8,8 @@ Here are the images generated for my self-authored book 'Fat Keily':
 James ![alt text](James.PNG)
 
 
-Addison![alt text](Addison.PNG)
+Addison ![alt text](Addison.PNG)
 
 
-Lucas![alt text](Lucas.PNG)
+Lucas ![alt text](Lucas.PNG)
 
