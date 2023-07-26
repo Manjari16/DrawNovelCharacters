@@ -4,7 +4,7 @@ This project takes the text version of novel and extracts physical features of i
 As you'll see stable diffusion gets confused with colors, so the visuals of characters might not be perfect, but we can still get our desired result if we generate three or four images of each character.
 
 Here are the images generated for my self-authored book 'Fat Keily':
-[James][!alt text](James.PNG)
+James ![alt text](James.PNG)
 [Addison](Addison.PNG)
 [Lucas](Lucas.PNG)
 
